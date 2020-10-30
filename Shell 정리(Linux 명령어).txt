@@ -85,7 +85,7 @@ https://wowcat.tistory.com/2919
 * sudo chown root:pi file1.txt
 : chown <소유자><소유그룹><파일명>
 * file <> : 파일종류
-*ping : ping 확인
+* ping : ping 확인
 * ifconfig : Windows 의 ifconfig
 * netstat : 네트워크의 상태
 * nbtstat : IP 충돌이 발생할 경우, 충돌 된 컴퓨터를 찾기 위한 명령어
@@ -419,3 +419,7 @@ env | grep : 찾기(검색)
 "" : 정렬
 
 표준출력 (1) / 에러출력 (2)
+
+*******************************************************************************************
+[2020-10-30]
+for 반복문 참고 사이트 : https://jhnyang.tistory.com/191
